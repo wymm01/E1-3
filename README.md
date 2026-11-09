@@ -57,6 +57,9 @@ MAC 연산을 크기별로 10회 반복한 평균 시간입니다. (3×3은 십�
 | 13×13 | 0.016550 | 169 |
 | 25×25 | 0.065330 | 625 |
 
+<img width="622" height="365" alt="step7_perf_table" src="https://github.com/user-attachments/assets/3f0a1fe1-0cda-4303-bdea-755863958d9f" />
+
+
 
 ### 3-4. 시간 복잡도 분석 (O(N²))
 
